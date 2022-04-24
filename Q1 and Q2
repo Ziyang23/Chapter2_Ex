@@ -1,0 +1,45 @@
+Question 1: Identify 3 Quality Attributes for each system.
+
+  a. Enterprise Inventory Control: Security, Performance, Integration
+  b. Smart Phone Map App: Availability, Performance, Usability
+  c. Video Game: Performance, Testability, Usability
+  d. Social Network Site: Availability, Security, Usability
+  
+Question 2: Specify most important Quality Attribute using scenario.
+
+  a. Enterprise Inventory Control: Security
+  
+  Source           : Management Staff
+  Stimulus         : Try to modify the inventory information
+  Artifact         : Data within the system
+  Environment      : Under normal operations
+  Response         : System authenticate users' account
+  Response Measure : Inventory data is being modify within 5 seconds
+  
+  b. Smart Phone Map App: Performance
+  
+  Source           : Users
+  Stimulus         : initiate transection 
+  Artifact         : System
+  Environment      : Under Normal operation
+  Response         : Transection are processed
+  Response Measure : With average latency of 2 seconds
+  
+  c. Video Game: Performance
+  
+  Source           : Players
+  Stimulus         : initiate the game
+  Artifact         : System
+  Environment      : Under Normal operation 
+  Response         : Game are initiate
+  Response Measure : With average latency of 5 seconds
+  
+  d. Social Network Site: Security 
+  
+  Source           : Users
+  Stimulus         : tires to log in account
+  Artifact         : System
+  Environment      : Under Normal operation 
+  Response         : Account is being logged in 
+  Response Measure : Within 5 seconds
+  
