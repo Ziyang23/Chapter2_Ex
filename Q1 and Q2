@@ -16,8 +16,8 @@ Question 2: Specify most important Quality Attribute using scenario.
   a. Enterprise Inventory Control: Security
     Source           : Management Staff
     Stimulus         : Try to modify the inventory information
-    Artifact         : Data within the system
     Environment      : Under normal operations
+    Artifact         : Data within the system
     Response         : System authenticate users' account
     Response Measure : Inventory data is being modify within 5 seconds
   
@@ -25,8 +25,8 @@ Question 2: Specify most important Quality Attribute using scenario.
   b. Smart Phone Map App: Performance
     Source           : Users
     Stimulus         : initiate transection 
+    Environment      : Under normal operations
     Artifact         : System
-    Environment      : Under Normal operation
     Response         : Transection are processed
     Response Measure : With average latency of 2 seconds
   
@@ -34,8 +34,8 @@ Question 2: Specify most important Quality Attribute using scenario.
   c. Video Game: Performance
     Source           : Players
     Stimulus         : initiate the game
+    Environment      : Under normal operations
     Artifact         : System
-    Environment      : Under Normal operation 
     Response         : Game are initiate
     Response Measure : With average latency of 5 seconds
   
@@ -43,8 +43,8 @@ Question 2: Specify most important Quality Attribute using scenario.
   d. Social Network Site: Security 
     Source           : Users
     Stimulus         : tires to log in account
+    Environment      : Under normal operations
     Artifact         : System
-    Environment      : Under Normal operation 
     Response         : Account is being logged in 
     Response Measure : Within 5 seconds
   
